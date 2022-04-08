@@ -1,0 +1,13 @@
+.ref-main {
+  text-align: left;
+  margin-bottom: 4%;
+}
+.ref-items {
+  display: flex;
+  justify-content: space-between;
+}
+.ref-item {
+  display: inline-block;
+  justify-content: center;
+  margin-right: 20%;
+}
